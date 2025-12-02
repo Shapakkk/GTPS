@@ -6,6 +6,7 @@ node_modules
 .pnp.js
 
 # Local env 
+.env.schema 
 READMES.md
 .env
 .env.local

@@ -1,5 +1,5 @@
 > [CREDIT]
-> I use [growtopia.js](https://github.com/JadlionHD/growtopia.js). So, Support Them! xD
+I use [growtopia.js](https://github.com/JadlionHD/growtopia.js). So, Support Them! xD
 
 
 > [!NOTE]
