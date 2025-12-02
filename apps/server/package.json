@@ -27,7 +27,7 @@
   "author": "Edit by Shapak shapakid@gmail.com | Sc by : JadlionHD <jadlion.dev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@antfu/ni": "^25.0.0",
+    "@antfu/ni": "^28.0.0",
     "@growserver/config": "workspace:*",
     "@growserver/const": "workspace:*",
     "@growserver/db": "workspace:*",
